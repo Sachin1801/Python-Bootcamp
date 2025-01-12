@@ -1,2 +1,9 @@
-Hello world
-This is a new line 
+Hello World!
+this is a new line.
+this is new line created by python program
+Append operation taking place!
+Append operation taking place!
+2nd append 
+First line 
+Second line 
+Third line
